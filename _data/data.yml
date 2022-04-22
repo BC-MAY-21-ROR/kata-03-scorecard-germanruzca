@@ -12,12 +12,12 @@ sidebar:
   avatar: escudo.png # No modificar
 
   # Actualiza tus datos de contacto
-  email: germanruzca@gmail.com
+  email: me.germanrc@gmail.com
   phone:
   website: www.germanruzca.social
   linkedin: germanruzca
   github: germanruzca
-  gitlab: germanruzca
+  gitlab:
   bitbucket:
   twitter: '@germanruzca'
   stack-overflow: # Number/Username, e.g. 123456/alandoe
@@ -42,14 +42,27 @@ sidebar:
 
     - item: Time Management
       link: # dejar en blanco
+    
+    - item: Problem solving
+      link: # dejar en blanco
+
+    - item: Creativity
+      link: # dejar en blanco
+
+    - item: Self-Taught
+      link: # dejar en blanco
 
 # Registra aquí un resumen de tu perfil
 career-profile:
   title: About Me # NO MODIFICAR
   summary: |
-    I am ready to learn every day. Trying helping and teaching who needs. I enjoy working in team, sharing and listening to others, to implement the best solutions with ideas and thoughts.
-    I′m always looking for something new to do, immerse in new challenges. I also like listen to music, read articles and been fitness.
+    I am ready to learn every day. Trying to helping and teaching who needs. I enjoy working in team, sharing and listening to others, to implement the best solutions with ideas and thoughts.
 
+    I′m always looking for something new to do, immerse in new challenges. 
+
+    I started programming from the first semester of bachelor's degree, and when I discovered that, I have not stopped. In this moment I'm focus on the web development, and some of my goals is get a engineer title in a job, also, I would like to do some open source contributions
+
+    Some of my favorite things, is read new articles or books about any topic, listen to music and been fitness.
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
   - degree: Telematics Engineer
@@ -64,25 +77,37 @@ educationcomplete:
       - Group leader for five semesters
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
-  - role: Program Intern
+  - role: Program Intern (Ruby On Rails)
     time: 2021 - Present
     company: BrightCoders
-    deatils: |
-      Develop web applications that allows to contribute in the talent generation with tech and soft skills
-      to improve the level of panticipants employability.
+    details: |
+      In this program, I learned to resolve problems, and build web applications.
+      - Ruby and Ruby on Rails
+      - Best programming practices
+      - Agile project management and development
+      - Team work and collaboration
+      - Remote work culture
 
   - role: Full Stack Developer
     time: 2021 - Present
     company: VolcanCode
     details: |
-      Create from scratch real web app with technolgies to backend and frontend.
+      - Develop back-end and front-end web applications.
+      - CRUD.
+      - Build components from the designs.
+
+      NodeJS, GraphQL, Sequelize, PostgresSQL, Git, ReactJS, Storybook
+
 
   - role: Backend Developer (Social Service)
     time: 2021
-    company: Google, London
+    company: Secretaria de Salud Colima
     details: |
-      Develop the application dedicated to administration in health employees from Colima. Implementary
-      web technologies also the administration of data base.
+      - Develop and implement back-end technologies. 
+      - Build API REST.
+      - CRUD.
+
+      NodeJS, MySQL, Postman, Git, ReactJS
 
 # Registra aquí tus habilidades técnicas, para level utiliza:
 # 20% para Novice
@@ -96,6 +121,30 @@ skills:
   toolset:
     - name: JavaScript
       level: 60%
+
+    - name: Ruby
+      level: 50%
+    
+    - name: Ruby On Rails
+      level: 65%
+    
+    - name: PostgresSQL
+      level: 50%
+
+    - name: Git
+      level: 60%
+    
+    - name: HTML
+      level: 70%
+    
+    - name: CSS
+      level: 60%
+    
+    - name: Data Bases
+      level: 70%
+
+    - name: ReactJS
+      level: 40%
 
 # NO MODIFICAR
 footer: >
