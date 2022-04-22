@@ -47,7 +47,8 @@ sidebar:
 career-profile:
   title: About Me # NO MODIFICAR
   summary: |
-    I am a student ready to learn every day. Always helping and teaching who needs. I enjoy working in team, sharing and listening to others, to implement the best solutions with ideas and thoughts.
+    I am ready to learn every day. Trying helping and teaching who needs. I enjoy working in team, sharing and listening to others, to implement the best solutions with ideas and thoughts.
+    I′m always looking for something new to do, immerse in new challenges. I also like listen to music, read articles and been fitness.
 
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
@@ -55,6 +56,12 @@ educationcomplete:
     university: University of Colima
     time: 2018 August - 2022 August
     details: |
+      In four years, I've learning and applying new challenges and technolgies.
+      - Lead on school projects.
+      - Teamwork.
+      - Problem solving
+      - Obtain recognition for the best grade in the generation in four consecutive semesters.
+      - Group leader for five semesters
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
   - role: Program Intern
